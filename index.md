@@ -7,22 +7,62 @@ use-site-title: true
 
 ## Basic Course Info  
 
----
-
 **Instructor: Daniel Potter**  
 Email: Daniel_Potter@brown.edu
 
+Lecture Time: TTh 9am-10:20am  
+Lecture Room: [CIT Center (Thomas Watson CIT) 227](https://goo.gl/maps/9P7GufeMQdE2)  
+[Piazza](piazza.com/brown/fall2019/fall2019data1050s01): Q&A forum for questions and clarifications  
+HTA Mailing List: [dsi1050htas@lists.brown.edu](mailto:dsi1050htas@lists.brown.edu)  
+TA Mailing List: [dsi1050tas@lists.brown.edu](mailto:dsi1050tas@lists.brown.edu)
+
+
 ---
 
-### Course Overview
+## Course Overview
 
 This course provides an introduction to computer science and programming for data science. Students will learn the fundamentals of data structures, algorithms, analysis of algorithms, algorithmic complexity, programming using test-driven design, use of debuggers and profilers, code organization, and version control. Additional topics include data science web applications, SQL and NoSQL databases, and distributed computing.
 
 ---
 
-### Videos
-
+## TA Staff
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Office Hour</th>
+            <th scope="col">Office</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td>HTA: Martin (Ziyin) Ma</td>
+        <td>ziyin_ma@brown.edu</td><td></td><td></td>
+        </tr>
+        <tr>
+        <td>TA: Griffin Kao</td>
+        <td>griffin_kao@brown.edu</td><td></td><td></td>
+        </tr>
+        <tr>
+        <td>TA: Pedro Defreitas</td>
+        <td>pedro_defreitas@brown.edu</td><td></td><td></td>
+        </tr>
+        <tr>
+        <td>TA: Tanvir Shahriar</td>
+        <td>tanvir_shahriar@brown.edu</td><td></td><td></td>
+        </tr>
+        <tr>
+        <td>TA: Tiffany Ding</td>
+        <td>tiffany_ding@brown.edu</td><td></td><td></td>
+        </tr>
+        <tr>
+        <td>TA: Wenhuang Zeng</td>
+        <td>wenhuang_zeng@brown.edu</td><td></td><td></td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
-### Links
+## Links
