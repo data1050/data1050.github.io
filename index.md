@@ -12,7 +12,6 @@ Email: Daniel_Potter@brown.edu
 
 Lecture Time: TTh 9am-10:20am  
 Lecture Room: [CIT Center (Thomas Watson CIT) 227](https://goo.gl/maps/9P7GufeMQdE2)  
-[Piazza](piazza.com/brown/fall2019/fall2019data1050s01): Q&A forum for questions and clarifications  
 HTA Mailing List: [dsi1050htas@lists.brown.edu](mailto:dsi1050htas@lists.brown.edu)  
 TA Mailing List: [dsi1050tas@lists.brown.edu](mailto:dsi1050tas@lists.brown.edu)
 
@@ -66,3 +65,7 @@ This course provides an introduction to computer science and programming for dat
 ---
 
 ## Links
+
+- Q&A forum: [Piazza](https://piazza.com/brown/fall2019/fall2019data1050s01) for questions and clarifications   
+- Brown JupyterHub: [data.jupyter.brown.edu](https://data.jupyter.brown.edu)  
+- Brown DSI Data Gymnasia: [mathigon.org/data-gymnasia](https://mathigon.org/data-gymnasia)
