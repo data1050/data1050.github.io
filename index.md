@@ -21,6 +21,13 @@ TA Mailing List: [dsi1050tas@lists.brown.edu](mailto:dsi1050tas@lists.brown.edu)
 ## Course Overview
 
 This course provides an introduction to computer science and programming for data science. Students will learn the fundamentals of data structures, algorithms, analysis of algorithms, algorithmic complexity, programming using test-driven design, use of debuggers and profilers, code organization, and version control. Additional topics include data science web applications, SQL and NoSQL databases, and distributed computing.
+
+#### By the end of this course you will be able to:
+- Design & implement various data structures, algorithms; tackle interview questions in a systematic way
+- Learn to use SQL (**sqlite**), NoSQL (**mongoDB**), Graph database (**neo4j**), serverless database (Google **BigQuery**)
+- Build & deploy distributed processing pipeline at scale (MapReduce, **spark**) and apps (GCP **Dataproc**)
+- Deploy website and apps (GCP **AppEngine**)
+
 <!-- <table class="table">
     <thead>
         <tr>
@@ -71,5 +78,5 @@ This course provides an introduction to computer science and programming for dat
 
 ## TA Staff
 <div class="embed-responsive embed-responsive-16by9" style="padding-bottom: 70%">
-<iframe class="embed-responsive-item"  src="https://docs.google.com/a/brown.edu/document/d/e/2PACX-1vSACINVw-ZBrY_F6LVe6bnRBiv8LZjLYReyszJ0TZPIFrDN7wJxdwZKe9kuiP3_OIMhCs_DZ2hrc1qe/pub?embedded=true"></iframe>
+<iframe class="embed-responsive-item" src="https://docs.google.com/a/brown.edu/document/d/e/2PACX-1vSACINVw-ZBrY_F6LVe6bnRBiv8LZjLYReyszJ0TZPIFrDN7wJxdwZKe9kuiP3_OIMhCs_DZ2hrc1qe/pub?embedded=true"></iframe>
 </div>
