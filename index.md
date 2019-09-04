@@ -21,11 +21,7 @@ TA Mailing List: [dsi1050tas@lists.brown.edu](mailto:dsi1050tas@lists.brown.edu)
 ## Course Overview
 
 This course provides an introduction to computer science and programming for data science. Students will learn the fundamentals of data structures, algorithms, analysis of algorithms, algorithmic complexity, programming using test-driven design, use of debuggers and profilers, code organization, and version control. Additional topics include data science web applications, SQL and NoSQL databases, and distributed computing.
-
----
-
-## TA Staff
-<table class="table">
+<!-- <table class="table">
     <thead>
         <tr>
             <th scope="col">Name</th>
@@ -60,7 +56,7 @@ This course provides an introduction to computer science and programming for dat
         <td>wenhuang_zeng@brown.edu</td><td></td><td></td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 ---
 
@@ -69,3 +65,11 @@ This course provides an introduction to computer science and programming for dat
 - Q&A forum: [Piazza](https://piazza.com/brown/fall2019/fall2019data1050s01) for questions and clarifications   
 - Brown JupyterHub: [data.jupyter.brown.edu](https://data.jupyter.brown.edu)  
 - Brown DSI Data Gymnasia: [mathigon.org/data-gymnasia](https://mathigon.org/data-gymnasia)
+
+
+----
+
+## TA Staff
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item"  src="https://docs.google.com/a/brown.edu/document/d/e/2PACX-1vSACINVw-ZBrY_F6LVe6bnRBiv8LZjLYReyszJ0TZPIFrDN7wJxdwZKe9kuiP3_OIMhCs_DZ2hrc1qe/pub?embedded=true"></iframe>
+</div>
