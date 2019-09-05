@@ -78,5 +78,5 @@ This course provides an introduction to computer science and programming for dat
 
 ## TA Staff
 <div class="embed-responsive embed-responsive-16by9" style="padding-bottom: 70%">
-<iframe class="embed-responsive-item" src="https://docs.google.com/a/brown.edu/document/d/e/2PACX-1vSACINVw-ZBrY_F6LVe6bnRBiv8LZjLYReyszJ0TZPIFrDN7wJxdwZKe9kuiP3_OIMhCs_DZ2hrc1qe/pub?embedded=true"></iframe>
+<iframe class="embed-responsive-item" style="border: 1px solid #80808033" src="https://docs.google.com/a/brown.edu/document/d/e/2PACX-1vSACINVw-ZBrY_F6LVe6bnRBiv8LZjLYReyszJ0TZPIFrDN7wJxdwZKe9kuiP3_OIMhCs_DZ2hrc1qe/pub?embedded=true"></iframe>
 </div>
