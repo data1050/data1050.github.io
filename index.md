@@ -68,7 +68,7 @@ This course provides an introduction to computer science and programming for dat
 ---
 
 ## Links
-
+- **Collaboration Policy: The [collaboration policy](https://docs.google.com/document/d/1lePdqcRtE36K5BvQd-_fXKfAltdAXwl57o6mA124Psg/edit?usp=sharing) is available as a Google Doc. You must [sign the collaboration policy](https://docs.google.com/forms/d/e/1FAIpQLSfiCr3pzKZTKwv6NQjCgAmQu4bmN9y_WYTfIbrvwZqZg_pUow/viewform) before any of your homework can be graded.**
 - Q&A forum: [Piazza](https://piazza.com/brown/fall2019/fall2019data1050s01) for questions and clarifications   
 - Brown JupyterHub: [data.jupyter.brown.edu](https://data.jupyter.brown.edu)  
 - Brown DSI Data Gymnasia: [mathigon.org/data-gymnasia](https://mathigon.org/data-gymnasia)
