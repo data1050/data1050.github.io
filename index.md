@@ -7,14 +7,10 @@ use-site-title: true
 
 ## Basic Course Info  
 
-**Instructor: Daniel Potter**  
-Email: Daniel_Potter@brown.edu
-
-Lecture Time: TTh 9am-10:20am  
-Lecture Room: [CIT Center (Thomas Watson CIT) 227](https://goo.gl/maps/9P7GufeMQdE2)  
-HTA Mailing List: [dsi1050htas@lists.brown.edu](mailto:dsi1050htas@lists.brown.edu)  
-TA Mailing List: [dsi1050tas@lists.brown.edu](mailto:dsi1050tas@lists.brown.edu)
-
+* Instructor: [Dan Potter](mailto:Daniel_Potter@brown.edu)
+* [Course Syllabus](https://docs.google.com/document/d/1czdUjU2NEkDHgwMRXbfQrDAlQUmFeF2T2V_fbcs7f80/edit?usp=sharing)
+* Lecture Time: TTh 9am-10:20am  
+* Lecture Room: [CIT Center (Thomas Watson CIT) 227](https://goo.gl/maps/9P7GufeMQdE2)
 
 ---
 
@@ -65,11 +61,14 @@ This course provides an introduction to computer science and programming for dat
     </tbody>
 </table> -->
 
+* HTA Mailing List: [dsi1050htas@lists.brown.edu](mailto:dsi1050htas@lists.brown.edu)  
+* TA Mailing List: [dsi1050tas@lists.brown.edu](mailto:dsi1050tas@lists.brown.edu)
+
 ---
 
 ## Links
 - **Collaboration Policy: The [collaboration policy](https://docs.google.com/document/d/1lePdqcRtE36K5BvQd-_fXKfAltdAXwl57o6mA124Psg/edit?usp=sharing) is available as a Google Doc. You must [sign the collaboration policy](https://docs.google.com/forms/d/e/1FAIpQLSfiCr3pzKZTKwv6NQjCgAmQu4bmN9y_WYTfIbrvwZqZg_pUow/viewform) before any of your homework can be graded.**
-- Q&A forum: [Piazza](https://piazza.com/brown/fall2019/fall2019data1050s01) for questions and clarifications   
+- Q&A forum: [Piazza](https://piazza.com/brown/fall2019/fall2019data1050s01) for announcements, questions, and clarifications   
 - Brown JupyterHub: [data.jupyter.brown.edu](https://data.jupyter.brown.edu)  
 - Brown DSI Data Gymnasia: [mathigon.org/data-gymnasia](https://mathigon.org/data-gymnasia)
 
