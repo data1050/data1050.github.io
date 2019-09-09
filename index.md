@@ -71,7 +71,7 @@ This course provides an introduction to computer science and programming for dat
 - Q&A forum: [Piazza](https://piazza.com/brown/fall2019/fall2019data1050s01) for announcements, questions, and clarifications   
 - Brown JupyterHub: [data.jupyter.brown.edu](https://data.jupyter.brown.edu)  
 - Brown DSI Data Gymnasia: [mathigon.org/data-gymnasia](https://mathigon.org/data-gymnasia)
-
+- [Late Day Form](https://docs.google.com/forms/d/e/1FAIpQLSdF5mv3AAo-TLWQCLRjRrMMKvL80Y1t7O9CmYqCkjkmv7CKrw/viewform)
 
 ----
 
