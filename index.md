@@ -72,6 +72,7 @@ This course provides an introduction to computer science and programming for dat
 - Brown JupyterHub: [data.jupyter.brown.edu](https://data.jupyter.brown.edu)  
 - Brown DSI Data Gymnasia: [mathigon.org/data-gymnasia](https://mathigon.org/data-gymnasia)
 - [Late Day Form](https://docs.google.com/forms/d/e/1FAIpQLSdF5mv3AAo-TLWQCLRjRrMMKvL80Y1t7O9CmYqCkjkmv7CKrw/viewform)
+- [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScXG7lcRkg6IFBGRGoPilu5sw7-GdFoFmEtrc3wl0LscV8HRg/viewform)
 
 ----
 
