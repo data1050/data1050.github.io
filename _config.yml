@@ -24,12 +24,12 @@ description: Data Engineering
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Schedule: "schedule"
+#  Schedule: "schedule"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
     - Python Data Science Handbook: "https://jakevdp.github.io/PythonDataScienceHandbook/"
     - Julia-Python-R cheatsheet: "docs/cheatsheets/jpr-cheatsheet.pdf"
-    - Late Day Request Form: "https://docs.google.com/forms/d/e/1FAIpQLSdF5mv3AAo-TLWQCLRjRrMMKvL80Y1t7O9CmYqCkjkmv7CKrw/viewform"
+#    - Late Day Request Form: "https://docs.google.com/forms/d/e/1FAIpQLSdF5mv3AAo-TLWQCLRjRrMMKvL80Y1t7O9CmYqCkjkmv7CKrw/viewform"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the #navbar
