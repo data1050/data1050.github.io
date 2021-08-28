@@ -1,17 +1,17 @@
 ---
 layout: page
 title: DATA 1050
-subtitle: Data Engineering, Fall 2020
+subtitle: Data Engineering, Fall 2021
 use-site-title: true
 ---
 
 ## Basic Course Info  
 
-* Instructor: [Dan Potter](mailto:Daniel_Potter@brown.edu)
+* Instructor: [Sam Watson](mailto:sswatson@brown.edu)
 * [Course Syllabus](https://docs.google.com/document/d/1GYSZzLfWty78IC3nClYYd2DCv5G0zA4OgXdwfPZdJq8/edit?usp=sharing)
 * Lecture Time: TTh 1pm-2:20pm  
-* All information specific to Brown Students enrolled in this course can be found on the [DATA 1050 Internal Course Website](https://sites.google.com/brown.edu/data1050fa20/home)
-* Virtually all asynchronous communications will be via Piazza
+* All information specific to Brown Students enrolled in this course can be found on the [DATA 1050 Internal Course Website](https://sites.google.com/brown.edu/data1050-fa2021-internal/home)
+* Virtually all asynchronous communications will be via Prismia
 
 ---
 
