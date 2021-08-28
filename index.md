@@ -13,6 +13,13 @@ use-site-title: true
 * All information specific to Brown Students enrolled in this course can be found on the [DATA 1050 Internal Course Website](https://sites.google.com/brown.edu/data1050-fa2021-internal/home)
 * Virtually all asynchronous communications will be via Prismia
 
+### Course TA Staff
+* HTA: [Meera Kurup](meera_kurup@brown.edu)
+* UTA: [Lukas Kania](lukas_kania@brown.edu)
+* UTA: [Bangxi Xiao](bangxi_xiao@brown.edu)
+* UTA: [Yue Wang](yue_wang2@brown.edu)
+* UTA: [Ian Acosta](ian_henry_acosta@brown.edu)
+
 ---
 
 ## Course Overview
