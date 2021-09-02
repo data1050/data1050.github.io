@@ -9,7 +9,7 @@ use-site-title: true
 
 * Instructor: [Sam Watson](mailto:sswatson@brown.edu)
 * Lecture Time: MWF from 13:00 - 13:50 (1:00 PM to 1:50 PM) in Friedman 201
-* Join the course [Prismia Link](https://prismia.chat/projects/df0ad9ec-c39b-4e73-88aa-4823d7d553ee/join)
+* Join the course [Prismia](https://prismia.chat/projects/df0ad9ec-c39b-4e73-88aa-4823d7d553ee/join)
 
 ### Course Documentation
 * [Course Syllabus](https://drive.google.com/file/d/1CQhwFKGDt_t-VyPiFvQ7s_JCHWQkm7Tq/view?usp=sharing)
