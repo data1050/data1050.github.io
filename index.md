@@ -8,9 +8,9 @@ use-site-title: true
 ## Basic Course Info  
 
 * Instructor: [Sam Watson](mailto:sswatson@brown.edu)
-* [Course Syllabus](https://docs.google.com/document/d/1GYSZzLfWty78IC3nClYYd2DCv5G0zA4OgXdwfPZdJq8/edit?usp=sharing)
-* Lecture Time: TTh 1pm-2:20pm  
-* All information specific to Brown Students enrolled in this course can be found on the [DATA 1050 Internal Course Website](https://sites.google.com/brown.edu/data1050-fa2021-internal/home)
+* [Course Syllabus](https://drive.google.com/file/d/1CQhwFKGDt_t-VyPiFvQ7s_JCHWQkm7Tq/view?usp=sharing)
+* [Course Collaboration Policy](https://drive.google.com/file/d/1Qw_oouxe1o3tzr6ooB_6Q1ZoXcm-wTc6/view?usp=sharing)
+* Lecture Time: MWF from 13:00 - 13:50 (1:00 PM to 1:50 PM) in Friedman 201
 * Virtually all asynchronous communications will be via Prismia
 
 ### Course TA Staff
@@ -32,4 +32,4 @@ This course provides an introduction to computer science and programming for dat
 - Build & deploy a distributed processing pipeline at scale (MapReduce, **Spark**)
 - Deploy websites and apps (Heroku, AWS, GCP)
 
-Other details can be found in the Syllabus linked above and on the DATA 1050 Interal Course Website.
+Other details can be found in the Syllabus linked above. If you have any questions, please reach out to the instructor and course TAs. 
