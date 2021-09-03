@@ -7,9 +7,9 @@ use-site-title: true
 
 ## Basic Course Info  
 
-* Instructor: [Sam Watson](mailto:sswatson@brown.edu)
-* Lecture Time: MWF from 13:00 - 13:50 (1:00 PM to 1:50 PM) in Friedman 201
-* Join the course [Prismia](https://prismia.chat/projects/df0ad9ec-c39b-4e73-88aa-4823d7d553ee/join)
+* Instructor: [Samuel S. Watson](mailto:sswatson@brown.edu)
+* Lecture Time: MWF from 13:00 - 13:50 in Friedman 201
+* Join the [Prismia](https://prismia.chat/projects/df0ad9ec-c39b-4e73-88aa-4823d7d553ee/join) course.
 
 ### Course Documentation
 * [Course Syllabus](https://drive.google.com/file/d/1CQhwFKGDt_t-VyPiFvQ7s_JCHWQkm7Tq/view?usp=sharing)
@@ -26,12 +26,21 @@ use-site-title: true
 
 ## Course Overview
 
-This course provides an introduction to computer science and programming for data science. Students will learn the fundamentals of data structures, algorithms, analysis of algorithms, algorithmic complexity, programming using test-driven design, use of debuggers and profilers, code organization, and version control. Additional topics include data science web applications, SQL, NoSQL, Graph, and Streaming databases, and distributed computing.
+This course provides an introduction to computer science and programming for data science. Students will be able to...
 
-#### By the end of this course you will be able to:
-- Design & implement various data structures, algorithms; tackle interview questions in a systematic way
-- Learn to use SQL (**Postgres**), NoSQL (**mongoDB**), Graph database (**neo4j**), Streaming database (**Kafka**)
-- Build & deploy a distributed processing pipeline at scale (MapReduce, **Spark**)
-- Deploy websites and apps (Heroku, AWS, GCP)
-
-Other details can be found in the Syllabus linked above. If you have any questions, please reach out to the instructor and course TAs. 
+1. Import and manipulate data in a variety of formats
+2. Discuss how data is managed within organizations
+3. Describe how computers work at a basic level and reason about the implications of these hardware details for how we build software
+4. Take advantage of productivity-enhancing features of development environments (VS Code and Jupyter)
+5. Perform basic operations using the command line (Bash)
+6. Version control their software (Git)
+7. Solve programming exercises (Python)
+8. Create data visualizations using dashboarding software (Superset)
+9. Describe the relational data model and devise SQL schema appropriate to a given use case
+10. Set up a SQL database and write SQL queries to perform basic data manipulation tasks (PostgresQL with Supabase)
+11. Discuss the advantages and disadvantages of noSQL databases, set up and use a noSQL database (MongoDB).
+12. Solve exercises on data structures and algorithms (including abstract data types, asymptotic notation, sorting and binary search, graph algorithms, and database algorithms).
+13. Describe the paradigmatic use cases for graph databases (neo4j) and streaming databases (Kafka), and perform basic tasks using those databases.
+14. Build systems which can perform computations in parallel across multiple nodes (PySpark)
+15. Get data from the web via scraping or interacting with REST APIs.
+16. Deploy a dashboard-style website which draws from a data source and updates live.
