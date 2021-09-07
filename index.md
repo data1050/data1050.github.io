@@ -12,7 +12,7 @@ use-site-title: true
 * Join the [Prismia](https://prismia.chat/projects/df0ad9ec-c39b-4e73-88aa-4823d7d553ee/join) course.
 
 ### Course Documentation
-* [Course Syllabus](https://drive.google.com/file/d/1CQhwFKGDt_t-VyPiFvQ7s_JCHWQkm7Tq/view?usp=sharing)
+* [Course Syllabus]("docs/course-documents/data1050-syllabus.pdf")
 * [Course Collaboration Policy](https://drive.google.com/file/d/1Qw_oouxe1o3tzr6ooB_6Q1ZoXcm-wTc6/view?usp=sharing)
 
 ### Course TA Staff
