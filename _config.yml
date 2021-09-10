@@ -24,7 +24,7 @@ description: Data Engineering
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-#  Schedule: "schedule"
+  Class: "class"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
     - Python Data Science Handbook: "https://jakevdp.github.io/PythonDataScienceHandbook/"
