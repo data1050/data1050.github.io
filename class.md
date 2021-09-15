@@ -31,28 +31,28 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">2</td>    
       <td style="text-align: center">09-13</td>
-      <td style="text-align: center">Data & Data Systems (II)</td>
+      <td style="text-align: center">Data and Data Systems (II)</td>
       <td style="text-align: center"><a href="https://youtu.be/C0ABsQjx0ok">[youtube]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/ZI15-U1AE">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">09-15</td>
-      <td style="text-align: center">Computing Basics (II)</td>
+      <td style="text-align: center">Computing Basics</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>  
     <tr>
       <td style="text-align: center">4</td>
       <td style="text-align: center">09-17</td>
-      <td style="text-align: center">Using Python</td>
+      <td style="text-align: center">Computing Basics (II)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>   
     <tr>
       <td style="text-align: center">5</td>    
       <td style="text-align: center">09-20</td>
-      <td style="text-align: center">Using Python (II)</td>
+      <td style="text-align: center">Using Python</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
