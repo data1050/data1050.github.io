@@ -24,16 +24,16 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">1</td>
       <td style="text-align: center">09-10</td>
-      <td style="text-align: center">Data and Data Systems</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">Data and Data Systems (I)</td>
+      <td style="text-align: center"><a href="https://youtu.be/IqAGoGECerI">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/AQ2C-RF1X">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">2</td>    
       <td style="text-align: center">09-13</td>
-      <td style="text-align: center">Computing Basics</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Data & Data Systems (II)</td>
+      <td style="text-align: center"><a href="https://youtu.be/C0ABsQjx0ok">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/ZI15-U1AE">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">3</td>
