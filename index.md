@@ -19,10 +19,14 @@ use-site-title: true
 
 ### Course TA Staff
 * HTA: [Meera Kurup](meera_kurup@brown.edu)
-* UTA: [Lukas Kania](lukas_kania@brown.edu)
-* UTA: [Bangxi Xiao](bangxi_xiao@brown.edu)
-* UTA: [Yue Wang](yue_wang2@brown.edu)
-* UTA: [Ian Acosta](ian_henry_acosta@brown.edu)
+* TA: [Lukas Kania](lukas_kania@brown.edu)
+* TA: [Bangxi Xiao](bangxi_xiao@brown.edu)
+* TA: [Yue Wang](yue_wang2@brown.edu)
+* TA: [Ian Acosta](ian_henry_acosta@brown.edu)
+* TA: [Zichang Gao](zichang_gao@brown.edu)
+* TA: [Shashidhar Pai](shashidhar_pai@brown.edu)
+* TA: [Hang Zhou](hang_zhou@brown.edu)
+* TA: [Rugved Mavidipalli](rugved_mavidipalli@brown.edu)
 
 ---
 
