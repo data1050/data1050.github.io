@@ -3,19 +3,6 @@ layout: page
 title: Notebooks and videos
 ---
 
-Topic: DATA 1050
-Start Time : Sep 8, 2021 12:55 PM
-
-Meeting Recording:
-https://brown.zoom.us/rec/share/F-pOA2DocyJ6buZFcyG7dnLCsqimtXVBzMWWjC4__2rOdkmUUrJ_ktL9RhQjCPjo.8OU-z7du1Sbe1vff
-
-Topic: DATA 1050
-Start Time : Sep 10, 2021 12:56 PM
-
-Meeting Recording:
-https://brown.zoom.us/rec/share/EJOOJoQM9mTPF0CrvqYEoZuypFCNmBEY9DTTwSS67Sn_4f874OBZ6Vznw6HaYgC0.2ImuCuDcoAgWef38
-
-
 <table>
   <thead>
     <tr>
