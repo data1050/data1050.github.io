@@ -3,6 +3,19 @@ layout: page
 title: Notebooks and videos
 ---
 
+Topic: DATA 1050
+Start Time : Sep 8, 2021 12:55 PM
+
+Meeting Recording:
+https://brown.zoom.us/rec/share/F-pOA2DocyJ6buZFcyG7dnLCsqimtXVBzMWWjC4__2rOdkmUUrJ_ktL9RhQjCPjo.8OU-z7du1Sbe1vff
+
+Topic: DATA 1050
+Start Time : Sep 10, 2021 12:56 PM
+
+Meeting Recording:
+https://brown.zoom.us/rec/share/EJOOJoQM9mTPF0CrvqYEoZuypFCNmBEY9DTTwSS67Sn_4f874OBZ6Vznw6HaYgC0.2ImuCuDcoAgWef38
+
+
 <table>
   <thead>
     <tr>
@@ -18,36 +31,36 @@ title: Notebooks and videos
       <td style="text-align: center">0</td>
       <td style="text-align: center">09-08</td>
       <td style="text-align: center">Introduction</td>
-      <td style="text-align: center"><a href="https://youtu.be/wht91T1lpvc">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/F-pOA2DocyJ6buZFcyG7dnLCsqimtXVBzMWWjC4__2rOdkmUUrJ_ktL9RhQjCPjo.8OU-z7du1Sbe1vff">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/9T63-7EA3">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">1</td>
       <td style="text-align: center">09-10</td>
       <td style="text-align: center">Data and Data Systems (I)</td>
-      <td style="text-align: center"><a href="https://youtu.be/IqAGoGECerI">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/EJOOJoQM9mTPF0CrvqYEoZuypFCNmBEY9DTTwSS67Sn_4f874OBZ6Vznw6HaYgC0.2ImuCuDcoAgWef38">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/AQ2C-RF1X">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">2</td>    
       <td style="text-align: center">09-13</td>
       <td style="text-align: center">Data and Data Systems (II)</td>
-      <td style="text-align: center"><a href="https://youtu.be/C0ABsQjx0ok">[youtube]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/BcRO2kIt-QbJAn1gu6FH3AyTn60pSOnF5cApUxVvjKybr1wY2nxZgB3g-YAhV34c.p4uA9rYWdWruaIg5">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/ZI15-U1AE">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">09-15</td>
       <td style="text-align: center">Computing Basics</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/YOOc5KIKOnS4UoizzKo8fmfIJ8R_YwVLyp2kAq9QHQt_kjf9AbTMV0KwO0IqPCkc.f7sgcawueg2j26K_">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/8SPN-DFO8">[prismia]</a></td>      
     </tr>  
     <tr>
       <td style="text-align: center">4</td>
       <td style="text-align: center">09-17</td>
       <td style="text-align: center">Computing Basics (II)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/d0H3HHQk8tzHMQx8TPHpOwcDo78UfWc5C9RRUr6oUPf7FMuiJGuPEyHhAEYUqGSm.kI6IMfItqEn8Ww_-">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/SR8J-6DND">[prismia]</a></td>
     </tr>   
     <tr>
       <td style="text-align: center">5</td>    
