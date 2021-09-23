@@ -53,15 +53,15 @@ title: Notebooks and videos
       <td style="text-align: center">5</td>    
       <td style="text-align: center">09-20</td>
       <td style="text-align: center">Using Python</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/wChDATYfc2dpWiOU4CGAWhBe-H2ZkFe66d2BcLzwclrKIIRuRXGdHPBty5ajFska.sWGTnBKBvt6DJqHB">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/WHZY-PDPI">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">6</td>    
       <td style="text-align: center">09-22</td>
       <td style="text-align: center">Version Control with Git</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/xHf61txInBsTohJ3zIK-p7K3LZKH5fpi5UZawq2oUWwJ7GZ4_gtse03oBO0uxFht.I5LjOz2MAPOYIpzb">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/N3IN-CJOM">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">7</td>    
