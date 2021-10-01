@@ -66,30 +66,30 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">7</td>    
       <td style="text-align: center">09-24</td>
-      <td style="text-align: center">Relational Databases (I)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">The Relational Data Model</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/BXuhjHCeL5in7FO3kCaenJjVlnH9ZMvUAaX7os50uJoADqqlqy3r9E9cP3Z9BniA.0YtFVYQUIo9M-uha">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/HP7P-BTPB">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">8</td>    
       <td style="text-align: center">09-27</td>
-      <td style="text-align: center">Relational Databases (II)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Introduction to SQL (I)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/zC0QhYJr6VY1KdFxgTECXAEuXSylLyVnA47xmmOtxCNof9AIKUy2ekWmgndeuQ8V.g62vXRbPUWFWVMhI">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/5E19-7JV9">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">9</td>
       <td style="text-align: center">09-29</td>
-      <td style="text-align: center">Relational Databases (III)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Introduction to SQL (II)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/BH8uSAZk1Uv_pLWuXk_kgpWRbjshJwMPxN6k9d_rOEJ5m8IwKpEl3DrdBDR5IMAn.rvNz7EMnJDjlJf4Q">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/LVCP-EZC2">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">10</td>    
       <td style="text-align: center">10-01</td>
-      <td style="text-align: center">Relational Databases (IV)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Introduction to SQL (III)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/TX1AAY0hxW5uq8yIxT6KpzC8ATh-7qOv74aybQ4p_9b6xQ0mMrm0OLTpd0-3C3Gj.I7qDKxp5nJ8hY8wl">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/1TQW-ETCD">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">11</td>    
