@@ -73,42 +73,42 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">8</td>    
       <td style="text-align: center">09-27</td>
-      <td style="text-align: center">Introduction to SQL (I)</td>
+      <td style="text-align: center">SQL Queries (I)</td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/zC0QhYJr6VY1KdFxgTECXAEuXSylLyVnA47xmmOtxCNof9AIKUy2ekWmgndeuQ8V.g62vXRbPUWFWVMhI">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/5E19-7JV9">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">9</td>
       <td style="text-align: center">09-29</td>
-      <td style="text-align: center">Introduction to SQL (II)</td>
+      <td style="text-align: center">SQL Queries (II)</td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/BH8uSAZk1Uv_pLWuXk_kgpWRbjshJwMPxN6k9d_rOEJ5m8IwKpEl3DrdBDR5IMAn.rvNz7EMnJDjlJf4Q">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/LVCP-EZC2">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">10</td>    
       <td style="text-align: center">10-01</td>
-      <td style="text-align: center">Introduction to SQL (III)</td>
+      <td style="text-align: center">SQL Queries (III)</td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/TX1AAY0hxW5uq8yIxT6KpzC8ATh-7qOv74aybQ4p_9b6xQ0mMrm0OLTpd0-3C3Gj.I7qDKxp5nJ8hY8wl">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/1TQW-ETCD">[prismia]</a></td>  
     </tr>
     <tr>
       <td style="text-align: center">11</td>    
       <td style="text-align: center">10-04</td>
-      <td style="text-align: center">Relational Databases (V)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Advanced SQL Queries (V)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/anfnducUolhQQqumj9CTSdpuyCeYfGnSPQw8_sm5_dwHyhYUxQeGEnxiTDMhh4UG.sWbpdrxSnMrARcOi">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/TL28-V598">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>    
       <td style="text-align: center">10-06</td>
-      <td style="text-align: center">Relational Databases (VI)</td>
+      <td style="text-align: center">Data Manipulation in SQL</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">13</td>    
       <td style="text-align: center">10-08</td>
-      <td style="text-align: center">Document-store databases</td>
+      <td style="text-align: center">Document databases</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
