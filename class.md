@@ -94,7 +94,7 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">11</td>    
       <td style="text-align: center">10-04</td>
-      <td style="text-align: center">Advanced SQL Queries (V)</td>
+      <td style="text-align: center">Advanced SQL Queries</td>
       <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/anfnducUolhQQqumj9CTSdpuyCeYfGnSPQw8_sm5_dwHyhYUxQeGEnxiTDMhh4UG.sWbpdrxSnMrARcOi">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/TL28-V598">[prismia]</a></td>
     </tr>
