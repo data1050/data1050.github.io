@@ -102,8 +102,8 @@ title: Notebooks and videos
       <td style="text-align: center">12</td>    
       <td style="text-align: center">10-06</td>
       <td style="text-align: center">Data Manipulation in SQL</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/dHjgut_e9VXdUionOHJCxEbpa1ZhjZzXq55apv-GkQtdMl32K_bqTRy9aEkIPE0.3Ij7GdP7veyPB9PW">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/IQG5-IY9B">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">13</td>    
