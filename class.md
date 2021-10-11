@@ -109,20 +109,20 @@ title: Notebooks and videos
       <td style="text-align: center">13</td>    
       <td style="text-align: center">10-08</td>
       <td style="text-align: center">Document databases</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/tlHwAx_IPE1iv6zlJbIUNVw1lcUjiX61vcIHq7_Kp2WaBI_AYTgtdn3vTgqjVuos.16oI1uAZvQo9pT54">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GH6V-MM9M">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">14</td>    
       <td style="text-align: center">10-13</td>
-      <td style="text-align: center">Data Dashboards</td>
+      <td style="text-align: center">Database Schema Design</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">15</td>    
       <td style="text-align: center">10-15</td>
-      <td style="text-align: center">SQL Data in Python</td>
+      <td style="text-align: center">Data Dashboards</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
