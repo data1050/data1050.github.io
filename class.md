@@ -116,8 +116,8 @@ title: Notebooks and videos
       <td style="text-align: center">14</td>    
       <td style="text-align: center">10-13</td>
       <td style="text-align: center">Database Schema Design</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/m-YePylnIGZGVrOUMGEdL78zPPz5hXcjEYS8SKacFjg-568z3DtI_NcjaZ53kOEl.Ss73eb3mbc645L8P">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/6JHW-VRVZ">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">15</td>    
