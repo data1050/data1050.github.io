@@ -123,36 +123,36 @@ title: Notebooks and videos
       <td style="text-align: center">15</td>    
       <td style="text-align: center">10-15</td>
       <td style="text-align: center">Data Dashboards</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/4Tiy1pcsbmDNUhJK1TN-LYLgccKC1-i-G-LPpQy1aDZd2J-7X-2Haq_J_FtEixCI.NPeWheMoh6jndYTF">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/GFAK-NH05">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">16</td>    
       <td style="text-align: center">10-18</td>
       <td style="text-align: center">DS&A: How Programs Run</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/13YoUPw8_5u-Nl14NOO2DxmdgofzAe4eiNepUKcYUBYJEdsTJzV41tRYcNMNSYP2.mldhFhCRfkUnrEGy">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/24X8-I6A0">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">17</td>    
       <td style="text-align: center">10-20</td>
-      <td style="text-align: center">DS&A: Abstract Data Types</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Making Python fast</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/naCOrZhQBAWJ96H3yLLCYXLlzFyGZznsTg-8dw7z8DjMzvVzEuaX0fWu1LDC2qI.3c7SM2iN-uDthLCI">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/1A0W-1XF6">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">18</td>    
       <td style="text-align: center">10-22</td>
-      <td style="text-align: center">DS&A: Fundamental Data Structures</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">DS&A: Intro & Algorithmic Complexity</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/nWFykLsQQikjXyEG9vL9lzFwC5GwIL_PQN2CVRn8mbytVjNMyP3LoNArg3-7HCnz._MVRvmiOLbIlt4TW">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/R0MO-DCYW">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">19</td>    
       <td style="text-align: center">10-25</td>
-      <td style="text-align: center">DS&A: Fundamental Data Structures (II)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">DS&A: Arrays & Dictionaries</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/fx-Fqn33K3Etm-6isvRvcxUEU8ESV3XbQYed6vAqcpJLt4rSnkl7Nd76U23U2uYl.KI9qle0kTqCDbYEM">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/1HMV-L5ZS">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">20</td>    
