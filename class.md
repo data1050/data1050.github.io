@@ -157,14 +157,14 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">20</td>    
       <td style="text-align: center">10-27</td>
-      <td style="text-align: center">DS&A: Elementary Algorithms</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">DS&A: Dictionaries (continued)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/ulE9oEmsU4j6cYISh_qDyDss7hay3-zh6C3nBI9nplaQE2CAH4i3fZzTm1pVvXsO.Ye5HuTzb0PM-y9EQa">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/0H19-6AE1">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">21</td>    
       <td style="text-align: center">10-29</td>
-      <td style="text-align: center">DS&A: Elementary Algorithms (II)</td>
+      <td style="text-align: center">DS&A: Linked Lists, Heaps, and Binary Trees</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
