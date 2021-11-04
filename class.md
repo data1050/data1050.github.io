@@ -164,28 +164,28 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">21</td>    
       <td style="text-align: center">10-29</td>
-      <td style="text-align: center">DS&A: Linked Lists, Heaps, and Binary Trees</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">DS&A: Linked Lists and Heaps</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/XQp8oYB-n4tWcm-ve7nOO-BGdk5LSIGDk-tYeap5v5QwE1FiY0447qZrtOi38vCQ.wXlo3PChjvIVjUNy">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/EK8R-NBAH">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">22</td>    
       <td style="text-align: center">11-01</td>
-      <td style="text-align: center">DS&A: Graph Algorithms</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">DS&A: Searching and Sorting</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/Gjqvkuttc3r07sCfaGcRdy-pPtUePvwat5bCYOMfRw9QcBqMTqwc6G8h_vMLQ-zE.mwX-ZNLmLfaveXvO">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/WWKE-WWEP">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">23</td>    
       <td style="text-align: center">11-03</td>
-      <td style="text-align: center">DS&A: Database Algorithms</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">DS&A: Sorting</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/kCFIVHyfNX9Lw_r9ZckeCFE6__HSXKoDrPJDAcSTVMDFJPYh_qQCb2lVgzafS2ML.3RkMQ2-X37rUxJOk">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/1WI0-Z3M2">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">24</td>    
       <td style="text-align: center">11-05</td>
-      <td style="text-align: center">DS&A: Database Algorithms (II)</td>
+      <td style="text-align: center">DS&A: Database Algorithms</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
