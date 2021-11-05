@@ -186,8 +186,8 @@ title: Notebooks and videos
       <td style="text-align: center">24</td>    
       <td style="text-align: center">11-05</td>
       <td style="text-align: center">DS&A: Database Algorithms</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/Xy816ID6JjgJs3OEftWHtSjNZ5Bm0nJ5bgu-3DJgAo7dq1ovEejn7tw3_ZV7TTSc.x2OIB8UVKgZMuJwk">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/W9HR-Q4AE">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">25</td>    
