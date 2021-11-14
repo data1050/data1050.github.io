@@ -192,23 +192,23 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">25</td>    
       <td style="text-align: center">11-08</td>
-      <td style="text-align: center">Cloud Computing</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Graph Databases (neo4j)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/9YShRNwd9syRdTo0wgp0EJjJz8eaU7lPWRlTUrVLB948EsbY1U9uoOwbMbsT-iRd.9bk1QrgXrZIrGEMb">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/OK89-QFI5">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">26</td>    
       <td style="text-align: center">11-10</td>
-      <td style="text-align: center">Graph Databases (neo4j)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Streaming Databases (Kafka)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/Cur5CvCWlD3kK_osvVZVO2xDrksRIkEDVjgeN7lbGBtz0L-ZRRxF6BD7kbhn5JbI.fAIMqXZJKzuTYpq_">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/WXB1-JZTD">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">27</td>
       <td style="text-align: center">11-12</td>
-      <td style="text-align: center">Streaming Databases (Kafka)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Alternative Relational Databases (Rel)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/C3ynDf0d2H--71deBebhtWghp6O7hlKo4oWaRT_oF4ox1BBzZuyGgTBOHB0BCsnd.8McM_oGK_br4w1TS">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/VW6O-ULH6">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">28</td>
