@@ -213,63 +213,63 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">28</td>
       <td style="text-align: center">11-15</td>
-      <td style="text-align: center">Distributed Computing with PySpark (I)</td>
+      <td style="text-align: center">Cloud Computing</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">29</td>
       <td style="text-align: center">11-17</td>
-      <td style="text-align: center">Distributed Computing with PySpark (II)</td>
+      <td style="text-align: center">Introduction to Web Technologies</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">30</td>
       <td style="text-align: center">11-19</td>
-      <td style="text-align: center">Distributed Computing with PySpark (III)</td>
+      <td style="text-align: center">Parallelism and Concurrency</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">31</td>
       <td style="text-align: center">11-22</td>
-      <td style="text-align: center">Distributed Computing with PySpark (IV)</td>
+      <td style="text-align: center">Distributed Computing with PySpark (I)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>    
     <tr>
       <td style="text-align: center">-</td>
       <td style="text-align: center">11-29</td>
-      <td style="text-align: center">Introduction to Web Technologies</td>
+      <td style="text-align: center">Distributed Computing with PySpark (II)</td>
       <td style="text-align: center"></td>  
       <td style="text-align: center"></td>      
     </tr>    
     <tr>
       <td style="text-align: center">32</td>
       <td style="text-align: center">12-01</td>
-      <td style="text-align: center">Deploying a Website with Plotly Dash (I)</td>
+      <td style="text-align: center">Distributed Computing with PySpark (III)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>     
     <tr>
       <td style="text-align: center">33</td>
       <td style="text-align: center">12-03</td>
-      <td style="text-align: center">Deploying a Website with Plotly Dash (II)</td>
+      <td style="text-align: center">Deploying a Website with Python</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>        
     <tr>
       <td style="text-align: center">34</td>
       <td style="text-align: center">12-06</td>
-      <td style="text-align: center">Web Scraping (I)</td>
+      <td style="text-align: center">Deploying a Website with Python (II)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">-</td>
       <td style="text-align: center">12-08</td>
-      <td style="text-align: center">Web Scraping (II)</td>
+      <td style="text-align: center">Web Scraping</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
