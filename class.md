@@ -213,21 +213,21 @@ title: Notebooks and videos
     <tr>
       <td style="text-align: center">28</td>
       <td style="text-align: center">11-15</td>
-      <td style="text-align: center">Cloud Computing</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Parallelism and Concurrency</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/HY0Z0M8jszEfA2zHjmjQAIbUMrtwH51StHGk6yY5suH-_dpSplsuSgpwDit1EcX6.uKCuKng5647kvULv"></a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/ECJN-QVAS"></a></td>      
     </tr>
     <tr>
       <td style="text-align: center">29</td>
       <td style="text-align: center">11-17</td>
-      <td style="text-align: center">Introduction to Web Technologies</td>
+      <td style="text-align: center">Cloud Computing</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
       <td style="text-align: center">30</td>
       <td style="text-align: center">11-19</td>
-      <td style="text-align: center">Parallelism and Concurrency</td>
+      <td style="text-align: center">Introduction to Web Technologies</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
