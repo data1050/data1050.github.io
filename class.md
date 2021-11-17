@@ -221,8 +221,8 @@ title: Notebooks and videos
       <td style="text-align: center">29</td>
       <td style="text-align: center">11-17</td>
       <td style="text-align: center">Cloud Computing</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/wMiPYdSkfLEgk6Y3fGK9lzqTnWoPgH14KQYprtFOT5JoR7xXE4uJY7egsLRYb7k7.UtHsFPSOF3dsqpZx">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/H888-54Y5">[prismia]</a></td>
     </tr>
     <tr>
       <td style="text-align: center">30</td>
