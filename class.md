@@ -239,35 +239,35 @@ title: Notebooks and videos
       <td style="text-align: center"><a href="https://prismia.chat/shared/AYYU-8FVE">[prismia]</a></td>      
     </tr>    
     <tr>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">32</td>
       <td style="text-align: center">11-29</td>
       <td style="text-align: center">Building a Web App with Dash</td>
       <td style="text-align: center"></td>  
       <td style="text-align: center"></td>      
     </tr>    
     <tr>
-      <td style="text-align: center">32</td>
+      <td style="text-align: center">33</td>
       <td style="text-align: center">12-01</td>
       <td style="text-align: center">Web Scraping and APIs</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>     
     <tr>
-      <td style="text-align: center">33</td>
+      <td style="text-align: center">34</td>
       <td style="text-align: center">12-03</td>
       <td style="text-align: center">Distributed computing with PySpark (I)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>        
     <tr>
-      <td style="text-align: center">34</td>
+      <td style="text-align: center">35</td>
       <td style="text-align: center">12-06</td>
       <td style="text-align: center">Distributed computing with PySpark (II)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
     <tr>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">36</td>
       <td style="text-align: center">12-08</td>
       <td style="text-align: center">Distributed computing with PySpark (III)</td>
       <td style="text-align: center"></td>
