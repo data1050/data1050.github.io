@@ -228,15 +228,15 @@ title: Notebooks and videos
       <td style="text-align: center">30</td>
       <td style="text-align: center">11-19</td>
       <td style="text-align: center">Introduction to Web Technologies</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/rc-j-IPuXZvYucANtsfkGIJBuBZOSwzJD-lvIvsvl9mPAS-MEGaqy9hIh7vutNpC.GuTyhlctlLx_Z5QV"/>[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/X3FH-QLA5">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">31</td>
       <td style="text-align: center">11-22</td>
-      <td style="text-align: center">Distributed Computing with PySpark (I)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Building a Web App</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/VzKgOXPQVEOgUOICGEYadFaBy25tNMMmrMx2IOpZb46COcYGjeMUyt8ffM_-IkVj.wxYvvvCIDhhuwnMH">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/AYYU-8FVE">[prismia]</a></td>      
     </tr>    
     <tr>
       <td style="text-align: center">-</td>
