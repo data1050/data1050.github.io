@@ -228,7 +228,7 @@ title: Notebooks and videos
       <td style="text-align: center">30</td>
       <td style="text-align: center">11-19</td>
       <td style="text-align: center">Introduction to Web Technologies</td>
-      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/rc-j-IPuXZvYucANtsfkGIJBuBZOSwzJD-lvIvsvl9mPAS-MEGaqy9hIh7vutNpC.GuTyhlctlLx_Z5QV"/>[zoom]</a></td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/rc-j-IPuXZvYucANtsfkGIJBuBZOSwzJD-lvIvsvl9mPAS-MEGaqy9hIh7vutNpC.GuTyhlctlLx_Z5QV">[zoom]</a></td>
       <td style="text-align: center"><a href="https://prismia.chat/shared/X3FH-QLA5">[prismia]</a></td>      
     </tr>
     <tr>
