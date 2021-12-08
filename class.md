@@ -242,34 +242,34 @@ title: Notebooks and videos
       <td style="text-align: center">32</td>
       <td style="text-align: center">11-29</td>
       <td style="text-align: center">Building a Web App with Dash</td>
-      <td style="text-align: center"></td>  
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/o1FER8HVJIpxB9rKRaC_NTGuV5t6dglXHvXJGCOSVblPwhbC10R4DspDx3S1voYb.iueZ-AgzCRjMDzhn">[zoom]</a></td>  
+      <td style="text-align: center"><a href="https://prismia.chat/shared/E11D-JTAK">[prismia]</a></td>      
     </tr>    
     <tr>
       <td style="text-align: center">33</td>
       <td style="text-align: center">12-01</td>
-      <td style="text-align: center">Web Scraping and APIs</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">REST APIs</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/pjl8trosS2XhaZPzEuyL2YKDF82IB13C3vf8iyiLud8bZ1R_yXDtkRjuITqPrehD.XSDyXwlYYIKHjwhW">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/BCRM-X21J">[prismia]</a></td>      
     </tr>     
     <tr>
       <td style="text-align: center">34</td>
       <td style="text-align: center">12-03</td>
-      <td style="text-align: center">Distributed computing with PySpark (I)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Web scraping</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/SnNy6ceN-CpbX1llQE2k43R4mRfAnaxsi-tONqmixAWvoV1MQGpkNWX1STErGdLC.gCcPfxQr5Y-NFLwD">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/HOD0-A39K">[prismia]</a></td>      
     </tr>        
     <tr>
       <td style="text-align: center">35</td>
       <td style="text-align: center">12-06</td>
-      <td style="text-align: center">Distributed computing with PySpark (II)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center">Distributed computing with PySpark (I)</td>
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/jKzwa35FMJaKJuPWkz8QdEJEthD5I0SVnBh9tFGcc50M1kQsuR1JlouSIwujeOo4.uaFTm3zqbrnafA_s">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/MMBU-TDNO">[prismia]</a></td>      
     </tr>
     <tr>
       <td style="text-align: center">36</td>
       <td style="text-align: center">12-08</td>
-      <td style="text-align: center">Distributed computing with PySpark (III)</td>
+      <td style="text-align: center">Distributed computing with PySpark (II)</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>      
     </tr>
