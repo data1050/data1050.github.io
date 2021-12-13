@@ -270,8 +270,8 @@ title: Notebooks and videos
       <td style="text-align: center">36</td>
       <td style="text-align: center">12-08</td>
       <td style="text-align: center">Distributed computing with PySpark (II)</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>      
+      <td style="text-align: center"><a href="https://brown.zoom.us/rec/share/Jz8n8C_sBtzCvaSj9aXqTsEnB44_unDHM4W4HLed-Xojbh-RN4QR8EXU411dgEs0.K8YvfMfmX_cNSxEF">[zoom]</a></td>
+      <td style="text-align: center"><a href="https://prismia.chat/shared/R4YN-T604">[prismia]</a></td>      
     </tr>
   </tbody>
 </table>
